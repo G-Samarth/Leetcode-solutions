@@ -5,14 +5,18 @@ public:
         for(int n : nums)
             map[n]++;
 
-        priority_queue<pair<int,int>> pq;
+        vector<vector<int>> bucket(nums.size()+1, vector<int>({}));
+
         for(auto m : map)
-            pq.push({m.second, m.first});
+            bucket[m.second].push_back(m.first);
 
         vector<int> ans;
-        while(k--){
-            ans.push_back(pq.top().second);
-            pq.pop();
+        for(int i=nums.size();i>=0;i--){
+            for(int b : bucket[i]){
+                ans.push_back(b);
+                if(ans.size() == k)
+                    return ans;
+            }
         }
 
         return ans;
