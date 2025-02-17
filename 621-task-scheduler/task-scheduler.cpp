@@ -28,8 +28,10 @@ public:
             for(int t : temp)
                 pq.push(t);
 
-            if(!pq.empty())
-                ans += cycle;
+            if(pq.empty())
+                break;
+
+            ans += cycle;
         }
         return ans;
     }
