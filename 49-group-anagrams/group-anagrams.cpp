@@ -5,13 +5,13 @@ public:
 
         for(string s : strs){
             string temp = s;
-            sort(temp.begin(), temp.end());
-            map[temp].push_back(s);
+            sort(s.begin(), s.end());
+            map[s].push_back(temp);
         }
 
         vector<vector<string>> ans;
-        for(auto arr : map){
-            ans.push_back(arr.second);
+        for(auto m : map){ 
+            ans.push_back(m.second);
         }
 
         return ans;
