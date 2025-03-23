@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        map<int, int> map;
+        unordered_map<int, int> map;
 
         for(int n : nums){
             map[n] = -1;
