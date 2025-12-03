@@ -4,11 +4,12 @@ public:
         unordered_map<int, int> map;
 
         for(int i=0;i<nums.size();i++){
-            if(map.find(target - nums[i]) != map.end())
-                return {map[target-nums[i]], i};
+            if(map.contains(target - nums[i]))
+                return {i, map[target - nums[i]]};
+            
             map[nums[i]] = i;
         }
 
-        return {-1, -1};
+        return {-1,-1};
     }
 };
