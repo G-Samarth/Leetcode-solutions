@@ -1,42 +1,43 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        int n = nums.size();
-        if (n == 0) return {};
-        
-        // Variables to store potential majority elements and their counts
-        int candidate1 = -1, candidate2 = -1, count1 = 0, count2 = 0;
-        
-        // First pass: Find potential majority candidates
-        for (int num : nums) {
-            if (num == candidate1) {
+        int cand1 = -1, count1 = 0;
+        int cand2 = -1, count2 = 0;
+
+        for(int n : nums){
+            if(cand1 == n){
                 count1++;
-            } else if (num == candidate2) {
+            }else if(cand2 == n){
                 count2++;
-            } else if (count1 == 0) {
-                candidate1 = num;
+            }else if(count1 == 0){
                 count1 = 1;
-            } else if (count2 == 0) {
-                candidate2 = num;
+                cand1 = n;
+            }else if(count2 == 0){
                 count2 = 1;
-            } else {
+                cand2 = n;
+            }else{
                 count1--;
                 count2--;
             }
         }
 
-        // Second pass: Verify the actual counts of the candidates
-        count1 = count2 = 0;
-        for (int num : nums) {
-            if (num == candidate1) count1++;
-            else if (num == candidate2) count2++;
+        count1=0, count2=0;
+        for(int n : nums){
+            if(n == cand1)
+                count1++;
+            else if(n == cand2)
+                count2++;
         }
 
-        // Prepare result based on actual counts
-        vector<int> result;
-        if (count1 > n / 3) result.push_back(candidate1);
-        if (count2 > n / 3) result.push_back(candidate2);
+        cout<<cand1<<cand2<<endl;
 
-        return result;
+        int thrsh = nums.size()/3;
+        vector<int> ans;
+        if(count1 > thrsh)
+            ans.push_back(cand1);
+        if(count2 > thrsh)
+            ans.push_back(cand2);
+
+        return ans;
     }
 };
