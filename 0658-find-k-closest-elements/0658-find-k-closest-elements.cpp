@@ -14,26 +14,25 @@ public:
             }
         }
 
-        ans.push_back(arr[middle]);
-        int i = middle-1, j = middle+1;
+        int i = middle;
+        int j = middle;
 
-        while(ans.size() != k){
-            if(i >= 0 && j < arr.size()){
-                if(abs(x-arr[i]) > abs(x-arr[j])){
-                    ans.push_back(arr[j]);
+        while(j-i+1 < k){
+            if(i>0 && j<arr.size()-1){
+                if(abs(x-arr[i-1]) > abs(x-arr[j+1]))
                     j++;
-                }else{
-                    ans.push_back(arr[i]);
+                else
                     i--;
-                }
-            }else if(i >= 0){
-                ans.push_back(arr[i--]);
-            }else{
-                ans.push_back(arr[j++]);
+            }else if(i>0){
+                i--;
+            }else if(j<arr.size()-1){
+                j++;
             }
         }
 
-        sort(ans.begin(), ans.end());
+        while(i <= j){
+            ans.push_back(arr[i++]);
+        }
         return ans;
     }
 };
