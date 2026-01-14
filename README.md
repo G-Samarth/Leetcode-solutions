@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
 ## Math
 |  |
@@ -22,6 +23,7 @@
 | [0042-trapping-rain-water](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
 ## Greedy
 |  |
@@ -31,6 +33,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
 ## Dynamic Programming
 |  |
@@ -60,6 +63,7 @@
 | [0219-contains-duplicate-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -70,8 +74,13 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
