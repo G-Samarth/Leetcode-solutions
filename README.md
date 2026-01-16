@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -78,6 +79,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
