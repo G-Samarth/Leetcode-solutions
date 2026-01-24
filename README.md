@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0079-word-search](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -86,6 +87,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -146,6 +148,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -202,4 +205,9 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
