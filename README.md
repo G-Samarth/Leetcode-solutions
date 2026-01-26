@@ -69,6 +69,7 @@
 | [0076-minimum-window-substring](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -89,6 +90,7 @@
 | [0020-valid-parentheses](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0079-word-search) |
+| [0208-implement-trie-prefix-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -198,6 +200,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Data Stream
@@ -218,4 +221,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0200-number-of-islands) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
