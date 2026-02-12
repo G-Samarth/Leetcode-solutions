@@ -21,6 +21,7 @@
 | [0212-word-search-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
@@ -65,6 +66,7 @@
 | [0152-maximum-product-subarray](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
 |  |
