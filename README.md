@@ -11,6 +11,7 @@
 | [0079-word-search](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -60,6 +61,7 @@
 | [0091-decode-ways](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -80,6 +82,7 @@
 | [0076-minimum-window-substring](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -104,6 +107,7 @@
 | [0076-minimum-window-substring](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -248,6 +252,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Graph Theory
@@ -259,4 +264,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
