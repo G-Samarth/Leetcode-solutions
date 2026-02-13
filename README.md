@@ -28,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -271,4 +273,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
