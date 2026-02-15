@@ -69,6 +69,7 @@
 | [0198-house-robber](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1250-longest-common-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
