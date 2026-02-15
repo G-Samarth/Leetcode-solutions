@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Merge Sort
 |  |
