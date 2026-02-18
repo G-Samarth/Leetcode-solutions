@@ -27,6 +27,7 @@
 | [0219-contains-duplicate-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
 ## Math
@@ -53,12 +54,14 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0435-non-overlapping-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
 ## Dynamic Programming
@@ -77,6 +80,7 @@
 | [0198-house-robber](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1250-longest-common-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
