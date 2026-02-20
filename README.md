@@ -82,6 +82,7 @@
 | [0198-house-robber](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1250-longest-common-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Stack
@@ -306,4 +307,5 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
