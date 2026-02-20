@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0057-insert-interval) |
@@ -261,6 +262,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0212-word-search-ii) |
@@ -292,4 +294,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
