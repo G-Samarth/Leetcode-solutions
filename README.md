@@ -173,6 +173,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -301,4 +302,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
