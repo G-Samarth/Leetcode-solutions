@@ -27,6 +27,7 @@
 | [0212-word-search-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -107,6 +110,7 @@
 | [0141-linked-list-cycle](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -141,6 +145,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
@@ -307,5 +312,6 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
