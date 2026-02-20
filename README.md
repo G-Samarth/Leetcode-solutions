@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0133-clone-graph) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0212-word-search-ii) |
