@@ -36,6 +36,7 @@
 | [0435-non-overlapping-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
 ## Math
@@ -164,6 +165,7 @@
 | [0268-missing-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0792-binary-search](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0792-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
