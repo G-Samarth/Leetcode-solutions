@@ -14,6 +14,7 @@
 | [0056-merge-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -292,6 +294,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0212-word-search-ii) |
