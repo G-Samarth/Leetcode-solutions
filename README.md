@@ -69,6 +69,7 @@
 | [0011-container-with-most-water](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0778-reorganize-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
@@ -78,6 +79,7 @@
 | [0295-find-median-from-data-stream](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
 ## Dynamic Programming
@@ -131,6 +133,7 @@
 | [0268-missing-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0778-reorganize-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/G-Samarth/Leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
@@ -158,6 +161,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0778-reorganize-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/G-Samarth/Leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Binary Search
@@ -184,6 +188,7 @@
 | [0239-sliding-window-maximum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0778-reorganize-string) |
 ## Linked List
 |  |
 | ------- |
@@ -351,4 +356,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
