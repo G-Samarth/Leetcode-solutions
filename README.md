@@ -34,6 +34,7 @@
 | [0239-sliding-window-maximum](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0393-utf-8-validation](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0393-utf-8-validation) |
 | [0417-pacific-atlantic-water-flow](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -350,6 +351,7 @@
 | [0268-missing-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0393-utf-8-validation](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0393-utf-8-validation) |
 ## Queue
 |  |
 | ------- |
