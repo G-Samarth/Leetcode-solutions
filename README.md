@@ -293,6 +293,7 @@
 | [0295-find-median-from-data-stream](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/G-Samarth/Leetcode-solutions/tree/master/1023-time-based-key-value-store) |
+| [1708-design-parking-system](https://github.com/G-Samarth/Leetcode-solutions/tree/master/1708-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -344,6 +345,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [1708-design-parking-system](https://github.com/G-Samarth/Leetcode-solutions/tree/master/1708-design-parking-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -364,4 +366,5 @@
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0778-reorganize-string) |
+| [1708-design-parking-system](https://github.com/G-Samarth/Leetcode-solutions/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
