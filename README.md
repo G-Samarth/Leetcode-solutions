@@ -140,6 +140,7 @@
 | [0133-clone-graph](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -210,6 +211,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -299,6 +301,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -381,4 +384,8 @@
 | ------- |
 | [0778-reorganize-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1708-design-parking-system](https://github.com/G-Samarth/Leetcode-solutions/tree/master/1708-design-parking-system) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
