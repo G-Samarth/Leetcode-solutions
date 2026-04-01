@@ -54,6 +54,7 @@
 | [0062-unique-paths](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
@@ -67,6 +68,7 @@
 | [0141-linked-list-cycle](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -141,6 +143,7 @@
 | [0139-word-break](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0268-missing-number) |
