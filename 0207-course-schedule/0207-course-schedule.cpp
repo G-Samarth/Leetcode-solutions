@@ -1,24 +1,28 @@
 class Solution {
     unordered_map<int, vector<int>> graph;
-    unordered_set<int> vis;
+    unordered_set<int> done;
 
-    bool dfs(int course){
-        if(vis.count(course))
+    bool dfs(int index){
+        if(done.count(index))
             return false;
         
-        vis.insert(course);
-        for(auto pr : graph[course]){
-            if(!dfs(pr))
+        done.insert(index);
+        for(auto i : graph[index]){
+            if(!dfs(i))
                 return false;
         }
-        vis.erase(course);
-        graph[course].clear();
+        done.erase(index);
+        graph.erase(index);
 
         return true;
     }
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        for(int i=0;i<prerequisites.size();i++){
+        int n = prerequisites.size();
+        if(n == 0)
+            return true;
+
+        for(int i=0;i<n;i++){
             graph[prerequisites[i][0]].push_back(prerequisites[i][1]);
         }
 
