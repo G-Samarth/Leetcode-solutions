@@ -48,6 +48,7 @@
 | [0883-car-fleet](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
+| [1036-rotting-oranges](https://github.com/G-Samarth/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 ## Math
 |  |
 | ------- |
@@ -277,6 +278,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/G-Samarth/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 | [0212-word-search-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/G-Samarth/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
