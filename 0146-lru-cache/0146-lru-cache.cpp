@@ -1,72 +1,76 @@
+struct Node {
+    int key, val;
+    Node* prev;
+    Node* next;
+
+    Node(int key, int val) : key(key), val(val), prev(nullptr), next(nullptr) {}
+};
+
 class LRUCache {
-    struct Node{
-        int key, val;
-        Node* prev;
-        Node* next;
-
-        Node(int key, int val) : key(key), val(val), next(NULL), prev(NULL) {}
-    };
-public:
     int cap = 0;
-    unordered_map<int, Node*> address;
-    Node* head = new Node(-1,-1);
-    Node* tail = new Node(-1,-1);
-
-    void addToHead(Node* node){
-        Node* temp = head->next;
-        head->next = node;
-        temp->prev = node;
-
-        node->prev = head;
-        node->next = temp;
-    }
-
-    void removeFromTail(Node* node){
-        Node* temp = node->prev;
-        temp->next = node->next;
-        node->next->prev = temp;
-    }
-    
+    unordered_map<int, Node*> map;
+    Node* head = new Node(-1, -1);
+    Node* tail = new Node(-1, -1);
+public:
     LRUCache(int capacity) {
         cap = capacity;
         head->next = tail;
         tail->prev = head;
     }
     
+    void putInFront(Node* node){
+        Node* temp = head->next;
+        node->prev = head;
+        node->next = temp;
+        temp->prev = node;
+        head->next = node;
+    }
+
+    void deleteNode(Node* node){
+        Node* prevNode = node->prev;
+        Node* nextNode = node->next;
+        prevNode->next = nextNode;
+        nextNode->prev = prevNode;
+    }
+
     int get(int key) {
-        if(address.count(key)){
-            Node* node = address[key];
-            removeFromTail(node);
-            addToHead(node);
+        if(map.count(key)){
+            Node* node = map[key];
+            deleteNode(node);
+            putInFront(node);
             return node->val;
-        }else{
-            return -1;
         }
+        
+        return -1;
     }
     
     void put(int key, int value) {
-        if(address.count(key)){
-            Node* node = address[key];
-            removeFromTail(node);
-            addToHead(node);
+        if(map.count(key)){
+            Node* node = map[key];
             node->val = value;
+
+            deleteNode(node);
+            putInFront(node);
             return;
         }
 
+        Node* node = new Node(key, value);
+
         if(cap == 0){
-            Node* last = tail->prev;
-            Node* temp = last->prev;
-            temp->next = tail;
-            tail->prev = temp;
-            address.erase(last->key);
-            delete(last);
+            Node* penNode = tail->prev;
+            Node* newPen = penNode->prev;
+
+            newPen->next = tail;
+            tail->prev = newPen;
+
+            map.erase(penNode->key);
+            delete(penNode);
             cap++;
         }
-
+            
+        putInFront(node);
+        map[key] = node;
         cap--;
-        Node* node = new Node(key, value);
-        address[key] = node;
-        addToHead(node);
     }
 };
 
