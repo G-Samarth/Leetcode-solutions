@@ -39,6 +39,7 @@
 | [0268-missing-number](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0393-utf-8-validation](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0393-utf-8-validation) |
+| [0399-evaluate-division](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -178,6 +179,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0778-reorganize-string) |
@@ -263,6 +265,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -276,6 +279,7 @@
 | [0207-course-schedule](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/G-Samarth/Leetcode-solutions/tree/master/1036-rotting-oranges) |
@@ -345,6 +349,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Trie
 |  |
@@ -357,6 +362,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0399-evaluate-division) |
 ## Topological Sort
 |  |
 | ------- |
@@ -399,4 +405,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0146-lru-cache) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/G-Samarth/Leetcode-solutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
